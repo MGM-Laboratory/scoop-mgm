@@ -1,0 +1,15 @@
+{
+    "version": "0.2.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/MGM-Laboratory/mgm-cli/releases/download/v0.2.1/mgm-windows-amd64.zip",
+            "bin": [
+                "mgm.exe"
+            ],
+            "hash": "256364fff0fb335b889510a12997084126db8d0d4eef0d526b87ea1f8d23894c"
+        }
+    },
+    "homepage": "https://github.com/MGM-Laboratory/mgm-cli",
+    "license": "MIT",
+    "description": "Megumi Code — the MGM Laboratory CLI (mgm)"
+}
