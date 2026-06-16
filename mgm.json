@@ -1,12 +1,12 @@
 {
-    "version": "0.2.1",
+    "version": "0.4.8",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/MGM-Laboratory/mgm-cli/releases/download/v0.2.1/mgm-windows-amd64.zip",
+            "url": "https://github.com/MGM-Laboratory/mgm-cli/releases/download/v0.4.8/mgm-windows-amd64.zip",
             "bin": [
                 "mgm.exe"
             ],
-            "hash": "256364fff0fb335b889510a12997084126db8d0d4eef0d526b87ea1f8d23894c"
+            "hash": "3c252c54037ed400741b41662b2afda2898b757e75ed3c94706b77ea1b69415f"
         }
     },
     "homepage": "https://github.com/MGM-Laboratory/mgm-cli",
